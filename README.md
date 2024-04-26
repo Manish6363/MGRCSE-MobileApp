@@ -1,4 +1,6 @@
-PROBLEM STATEMENT
+
+**PROBLEM STATEMENT**
+
 If a faculty is on leave, students do not know which faculty is on leave. 
 If a teacher wants to apply for leave, then he has to come to the department's office to apply for leave. 
 It is the happiest moment to say that the IT industry is growing rapidly, but it is a fact that some students do not understand coding, how to think about a particular problem, or how to take appropriate steps. 
