@@ -1,79 +1,38 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+PROBLEM STATEMENT
+If a faculty is on leave, students do not know which faculty is on leave. 
+If a teacher wants to apply for leave, then he has to come to the department's office to apply for leave. 
+It is the happiest moment to say that the IT industry is growing rapidly, but it is a fact that some students do not understand coding, how to think about a particular problem, or how to take appropriate steps. 
+Some students get to do a project in college for the first time, and then they are not able to think about how to do the project or what the project is, they are not able to decide. 
+Some students who prepare for exams like college exams, GATE, IIT JAM, etc. Lack of proper notes leads to trouble and this can also be one of the reasons for not qualifying. 
 
-# Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+**PROPOSED SYSTEM** 
+Many researchers and developers have developed a variety of mobile applications with different functions for educational purposes. We are going to provide in our application, that students, can easily get e-books, Wellprepared notes by experts, Project-based learning, Attendance, and Lecture videos, which faculty is on leave on a particular day. For Teachers, online leave form, Timetable, and Result analysis. Parents are also able to know student’s activity and result performance.
 
-## Step 1: Start the Metro Server
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+**OUTPUT SCREENSHOT**
 
-To start Metro, run the following command from the _root_ of your React Native project:
+![image](https://github.com/Manish6363/MGRCSE-MobileApp/assets/145590479/a196aa99-fc5c-491f-99e7-29e86bd7702e)
 
-```bash
-# using npm
-npm start
 
-# OR using Yarn
-yarn start
-```
+![image](https://github.com/Manish6363/MGRCSE-MobileApp/assets/145590479/b52c94d1-588b-45ca-8d60-720bfac7aa0f)
 
-## Step 2: Start your Application
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+![image](https://github.com/Manish6363/MGRCSE-MobileApp/assets/145590479/16fc2de8-eae3-47f4-a198-ee63534cfa0e)
 
-### For Android
 
-```bash
-# using npm
-npm run android
+![image](https://github.com/Manish6363/MGRCSE-MobileApp/assets/145590479/94a7f4df-7204-4057-b836-fa50114ee923)
 
-# OR using Yarn
-yarn android
-```
 
-### For iOS
+![image](https://github.com/Manish6363/MGRCSE-MobileApp/assets/145590479/55dbd4a9-cda3-4599-b172-52df9af70387)
 
-```bash
-# using npm
-npm run ios
 
-# OR using Yarn
-yarn ios
-```
+![image](https://github.com/Manish6363/MGRCSE-MobileApp/assets/145590479/b8e52f14-e620-4875-acf1-037f1fac4b0d)
 
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
 
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
+![image](https://github.com/Manish6363/MGRCSE-MobileApp/assets/145590479/4a30261a-3926-4fe5-b1f4-08ea47ad98bd)
 
-## Step 3: Modifying your App
 
-Now that you have successfully run the app, let's modify it.
 
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
 
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
 
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
